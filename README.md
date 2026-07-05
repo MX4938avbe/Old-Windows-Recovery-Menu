@@ -20,3 +20,5 @@ Apart from that, you can freely create a winpeshl.ini file to open automatically
 * Change keyboard layout
 * Use a device
 * Change default/boot time for multiple systems
+
+These functions will provisionally added later, as this application is oriented to nostagia appearance rather than practical use.

@@ -32,7 +32,7 @@ A fully functional uninstaller will provisionally added in version 1.1.1 to ease
 * Use a device
 * Load Drivers
 
-## List of Updates:
+## List of Updates
 Version 1.1.0: Installer available; Fixed system restore no target OS & window centering issues.
 
 Version 1.0.2: Added language/keyboard picker and OS options menu.

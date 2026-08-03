@@ -33,6 +33,8 @@ A fully functional uninstaller will provisionally added in version 1.1.1 to ease
 * Load Drivers
 
 ## List of Updates
+Version 1.1.1: Uninstalling agent's function fixed.
+
 Version 1.1.0: Installer available; Fixed system restore no target OS & window centering issues.
 
 Version 1.0.2: Added language/keyboard picker and OS options menu.

@@ -9,24 +9,9 @@ This program aims to provides classical look of Windows Recovery Menu before Win
 
 Tested on Windows 11 24H2 and 25H2 only. You should use this application **carefully** in Windows 8 and Windows 10.
 
-## How to use
+## Known Bugs
 
-### For standalone users:
-You may directly open this file by any methods in Windows PE, as this application uses multi-threaded runtime library.
-Apart from that, you can freely create a winpeshl.ini file to open automatically upon booting.
-
-### For users using installer: (Only applies to version 1.1.0 !!!)
-Using the typical way to install is fine.
-To uninstall this software, you need to perform these procedures:
-
-1. Go to control panel and perform an uninstallation.
-2. Find a Windows ISO image that matches your current version, then use dism command to extract system files.
-3. Copy the Winre.wim file in (Your extracted folder)\Windows\System32\Recovery folder. This file should have a size around 500~1000 MB.
-4. Paste and overwrite the original Winre.wim file in C:\Windows\System32\Recovery.
-5. Open a commaand prompt as administrator and type reagentc /disable, then reagentc /enable.
-
-A fully functional uninstaller will provisionally added in version 1.1.1 to ease these redundant steps.
-
+* bootim.exe recall nothing after choosing an option
 
 ## Functions lacking compared to Metro-UI style recovery screen
 * Use a device

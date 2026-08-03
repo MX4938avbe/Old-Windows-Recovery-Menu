@@ -136,7 +136,14 @@
     <ResourceCompile Include="WindowsProject1.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#1000.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#1022.ico" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#103.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#130.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#147.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#5000.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\#84.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\1000-9.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\1022-7.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\1022-7_1.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\1022-7_2.bmp" />
@@ -149,9 +156,12 @@
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\5000-9.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\5000-9_1.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\5000-9_2.bmp" />
+    <Image Include="..\..\..\..\downloads\customizergod (1)\bitmap6.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\IDI_APPICON-7.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\IDI_APPICON-7_1.bmp" />
     <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\IDI_APPICON-7_2.bmp" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\IDI_APPICON.ico" />
+    <Image Include="..\..\..\..\Downloads\CustomizerGod (1)\Windows 7.ico" />
     <Image Include="small.ico" />
     <Image Include="WindowsProject1.ico" />
   </ItemGroup>

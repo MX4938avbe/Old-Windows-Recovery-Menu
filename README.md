@@ -9,9 +9,9 @@ This program aims to provides classical look of Windows Recovery Menu before Win
 
 Tested on Windows 11 24H2 and 25H2 only. You should use this application **carefully** in Windows 8 and Windows 10.
 
-## Known Bugs
+## Installation
 
-* bootim.exe recall nothing after choosing an option
+Use w7repair.exe as a standalone usage, use w7repair_install.exe to install this module like an app.
 
 ## Functions lacking compared to Metro-UI style recovery screen
 * Use a device

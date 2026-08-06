@@ -18,6 +18,8 @@ Use w7repair.exe as a standalone usage, use w7repair_install.exe to install this
 * Load Drivers
 
 ## List of Updates
+Version 1.1.2: Fixed OS menu controlling logics; Fixed modern recovery options link.
+
 Version 1.1.1: Uninstalling agent's function fixed.
 
 Version 1.1.0: Installer available; Fixed system restore no target OS & window centering issues.

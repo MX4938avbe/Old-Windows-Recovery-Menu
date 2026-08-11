@@ -15,7 +15,6 @@ Use w7repair.exe as a standalone usage, use w7repair_install.exe to install this
 
 ## Functions lacking compared to Metro-UI style recovery screen
 * Use a device
-* Load Drivers
 
 ## List of Updates
 Version 1.1.3: Added local change boot setting and load drivers dialog; Changed borders to classic theme

@@ -13,10 +13,9 @@ Tested on Windows 11 24H2 and 25H2 only. You should use this application **caref
 
 Use w7repair.exe as a standalone usage, use w7repair_install.exe to install this module like an app.
 
-## Functions lacking compared to Metro-UI style recovery screen
-* Use a device
-
 ## List of Updates
+Version 1.1.4: Added use a device page.
+
 Version 1.1.3: Added local change boot setting and load drivers dialog; Changed borders to classic theme
 
 Version 1.1.2: Fixed OS menu controlling logics; Fixed modern recovery options link.
